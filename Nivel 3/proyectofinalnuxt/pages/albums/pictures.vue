@@ -1,0 +1,3 @@
+<template>
+    <PicturesComponent></PicturesComponent>
+</template>

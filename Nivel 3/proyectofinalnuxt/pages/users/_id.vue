@@ -1,0 +1,3 @@
+<template>
+    <UserCard></UserCard>
+</template>

@@ -1,0 +1,3 @@
+<template>
+    <PicturesCard></PicturesCard>
+</template>
